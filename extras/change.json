@@ -1,0 +1,22 @@
+{
+  "new_playlist": [
+    {
+      "user_id": "2",
+      "song_ids": [
+        "8",
+        "32"
+      ]
+    }
+  ],
+  "remove_playlist": [
+    "1"
+  ],
+  "update_playlist": [
+    {
+      "playlist_id": "2",
+      "song_ids": [
+        "3"
+      ]
+    }
+  ]
+}
